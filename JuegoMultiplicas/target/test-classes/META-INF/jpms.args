@@ -1,0 +1,4 @@
+--patch-module
+com.mycompany.juegomultiplicas=_
+--add-reads
+com.mycompany.juegomultiplicas=ALL-UNNAMED
